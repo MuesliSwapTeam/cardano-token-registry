@@ -51,11 +51,11 @@
         ]
     },
     "description": {
-        "sequenceNumber": 1,
-        "value": "The deprecated utility token powering the MuesliSwap ecosystem. New policy id: afbe91c0b44b3040e360057bf8354ead8c49c4979ae6ab7c4fbdc9eb",
+        "sequenceNumber": 2,
+        "value": "The deprecated utility token powering the MuesliSwap ecosystem. New policy id: afbe91c0b44b3040e360057bf8354ead8c49c4979ae6ab7c4fbdc9eb. Transform now at https://muesliswap.com/token-migration",
         "signatures": [
             {
-                "signature": "b4a4786e2db7e995ecdbe4b87fe47e4deb47a20b1097034b089257115973eaf83f9f3d1e991ca097babde6ba9cd1d45979485f0d5f9b5888770d8976ff46ac0b",
+                "signature": "f7318d823dfa75946ff507c531f07ab1ad1a58b8440597114b092b7aceb5735f98268d34c5c9194698a9919b19a1c2a951bd4d7a419275db238dcc6f74f0970d",
                 "publicKey": "dbd276067bc35078e32fd4b4ec1f4e5aa8b3ac5cbab17bf18e105cad116f3695"
             }
         ]
